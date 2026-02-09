@@ -60,4 +60,4 @@ When using GitHub.com, you can limit who can register with your CircleCI install
 . Navigate to your CircleCI Admin Settings page.
 . Select *System Settings* from the Admin Setting menu.
 . Scroll down to Required organization Membership List.
-. Enter the organization(s) you wish to approve. If entering more than one organization, use a comma-delimited string.
+. Enter the organization(s) you wish to approve, for example, `A6-9V, L6-N9`. If entering more than one organization, use a comma-delimited string.
